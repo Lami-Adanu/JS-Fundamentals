@@ -1,0 +1,1 @@
+This forms part of practice session in ALX Frontend Web Development in JavaScript as a newbie (a first time beginner).
